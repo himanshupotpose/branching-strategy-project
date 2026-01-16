@@ -79,4 +79,4 @@ Example: `v1.2.0`
 **Himanshu Potpose**  
 DevOps Engineer | AWS | Git | Docker
 
-![Himanshu](himanshu.jpg)
+![Himanshu](himanshu.jpeg)
