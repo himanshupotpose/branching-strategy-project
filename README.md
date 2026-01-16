@@ -70,3 +70,13 @@ This document defines the standard branching strategy to be followed in this pro
 ## 📦 Versioning
 Follow Semantic Versioning: `MAJOR.MINOR.PATCH`  
 Example: `v1.2.0`
+
+
+---
+
+## 👤 Author
+
+**Himanshu Potpose**  
+DevOps Engineer | AWS | Git | Docker
+
+![Author](himanshu.jpg)
